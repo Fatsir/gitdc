@@ -1,0 +1,1706 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>运动磁场球鞋网上商城-nike/耐克运动鞋,阿迪达斯,adidas,三叶草,匡威帆布鞋,乔丹,jordan篮球鞋的正品网店</title>
+		<link rel="shortcut icon" href="favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/slide.css" />
+		<script src="js/jquery-3.2.1.min.js"></script>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/slide.js"></script>
+		<script src="js/ydcc.js"></script>
+		<style>
+			.ck-slide {
+				width: 100%;
+				min-width: 1200px;
+				height: 480px;
+			}
+			
+			.ck-slide ul.ck-slide-wrapper {
+				height: 480px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="header">
+			<div class="top">
+				<div class="ct">
+					<div class="collect">
+						<a href="javascript:;">收藏本站</a>
+					</div>
+					<div class="topr fr">
+						<div class="phone fr"></div>
+						<div class="user">
+							<a href="login.html" class="center p1">用户中心</a>
+							<ul class="userlist p2" style="display: none;">
+								<li>
+									<a href="login.html" target="_blank">个人中心</a>
+								</li>
+								<li>
+									<a href="#" target="_blank">我的订单</a>
+								</li>
+								<li>
+									<a href="#" target="_blank">我的红包</a>
+								</li>
+							</ul>
+						</div>
+						<div class="account fr">
+							<span>
+								<div id="greet"></div>
+								您好,欢迎光临运动磁场!
+								<a href="login.html">【 登录</a>
+								<font color="#C90819">|</font>
+								<a href="register.html">会员注册 】</a>
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="weal">
+			<a href="list.html">
+				<img src="img/20171215yrldwa.jpg" />
+			</a>
+		</div>
+		<div class="seek">
+			<div class="middle">
+				<div class="detailslog">
+					<a href="index.html">
+						<img src="img/logo.gif" />
+					</a>
+				</div>
+				<div class="search">
+					<div class="inside">
+						<div>
+							<form action="" method="get" name="form">
+								<input type="text" name="input" id="" value="" placeholder="请输入商品货号或关键词" class="text1 fl" />
+								<input type="submit" title="搜索" value="" class="submit1 fr" />
+							</form>
+						</div>
+					</div>
+					<div class="else">
+						<a href="list.html" target="_blank">
+							<font color="#999">乔丹</font>
+						</a>
+						|
+						<a href="list.html" target="_blank">
+							<font color="#999">科比</font>
+						</a>
+						|
+						<font color="#e9000d">
+							<a href="list.html" target="_blank">
+								<font color="#e9000d">独立日</font>
+							</a>
+							|
+							<a href="list.html" target="_blank">
+								<font color="#e9000d">权志龙拖鞋</font>
+							</a>
+							|
+							<a href="list.html" target="_blank">
+								<font color="#e9000d">小白鞋 </font>
+							</a>
+						</font>
+						|
+						<a href="list.html" target="_blank">
+							<font color="#999">杜兰特</font>
+						</a>
+						|
+						<a href="list.html" target="_blank">
+							<font color="#999">欧文</font>
+						</a>
+					</div>
+
+				</div>
+				<div class="shop fl">
+					<div class="shoping">
+						<div class="cart">
+							<a href="shopping.html" class="fl">
+								购物车(<span>0</span>)件
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="download fr"></div>
+			</div>
+		</div>
+		<div class="list">
+			<div class="list1">
+				<div class="in">
+					<ul>
+						<li class="for1 for2">
+							<a href="list.html">新品上架</a>
+							<ul class="cur" style="display: none;">
+								<li>
+									<a href="list.html">12月16日</a>
+								</li>
+								<li>
+									<a href="list.html">12月14日</a>
+								</li>
+								<li>
+									<a href="list.html">12月06日</a>
+								</li>
+								<li>
+									<a href="list.html">12月01日</a>
+								</li>
+								<li>
+									<a href="list.html">11月29日</a>
+								</li>
+							</ul>
+						</li>
+						<li class="for2" style="width: 81px;">
+							<a href="index.html" target="_blank">首页</a>
+						</li>
+						<li class="for2 for3">
+							<a href="list.html" target="_blank">男鞋</a>
+						</li>
+						<li class="for2 for4">
+							<a href="list.html" target="_blank">女鞋</a>
+						</li>
+						<li class="for2 for5">
+							<a href="list.html" target="_blank">服饰配件</a>
+						</li>
+						<li class="for2">
+							<a href="list.html" target="_blank">潮流童鞋</a>
+						</li>
+						<li class="for2">
+							<a href="list.html" target="_blank">断码特价</a>
+						</li>
+						<li class="for2">
+							<a href="list.html" target="_blank" style="color: #eb2e14;">特卖会场</a>
+						</li>
+						<li class="for2">
+							<a href="javascript:;" target="_blank">寄卖区</a>
+						</li>
+						<li class="ten for2" style="width: 109px;padding-left: 40px;">
+							<a href="javascript:;" target="_blank">积分商城</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="manshoes for6" style="display: none;">
+			<div class="item qtbzd">
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">阿迪达斯</a>
+						</dl>
+						<dt>
+							<a href="list.html" target="_blank" class="spirit">三叶草</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Stan smith/史密斯</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Superstar/贝壳头</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> NMD</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Yeezy椰子</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Boost</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Tubular/小椰子</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> 篮球鞋</a>
+						</dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">乔丹系列</a>
+						</dl>
+						<dt>
+							<a href="list.html" target="_blank">乔丹正代</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">保罗</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">格里芬</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">安东尼</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">乔丹其他篮球鞋</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">乔丹休闲鞋</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">乔丹套装</a>
+						</dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">热门球星</a>
+						</dl>
+						<dt>
+							<a href="list.html" target="_blank">科比</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">詹姆斯</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">杜兰特</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">安东尼</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">哈登</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">喷/泡</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">其他球星</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank">保罗乔治</a>
+						</dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">耐克系列</a>
+						</dl>
+						<dt>
+							<a href="list.html" target="_blank">篮球鞋</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Sock Dart/袜子跑鞋</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Roshe跑鞋</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Flyknit/飞线跑鞋</a>
+						</dt>
+						<dt>
+							<a href="list.html" target="_blank"> Huarache/华莱士</a>
+						</dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">UnderArmour/安德玛</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">NEWBalance/纽巴伦</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">Vans/万斯</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">Reebok/锐步</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">Asics/亚瑟士</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">其他品牌</a>
+						</dl>
+					</li>
+				</ul>
+				<div class="blank1"></div>
+			</div>
+		</div>
+		<div class="manshoes for7" style="display: none;">
+			<div class="item qtbzd">
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">乔丹女鞋</a>
+						</dl>
+						<dt><a href="list.html" target="_blank" class="spirit">乔丹正代</a></dt>
+						<dt><a href="list.html" target="_blank"> 乔丹1-4 代</a></dt>
+						<dt><a href="list.html" target="_blank"> 乔丹5-8 代</a></dt>
+						<dt><a href="list.html" target="_blank"> 乔丹9-14代</a></dt>
+						<dt><a href="list.html" target="_blank">乔丹其他系列</a></dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">耐克女鞋</a>
+						</dl>
+						<dt><a href="list.html" target="_blank">篮球鞋</a></dt>
+						<dt><a href="list.html" target="_blank">生活休闲</a></dt>
+						<dt><a href="list.html" target="_blank">Roshe跑鞋</a></dt>
+						<dt><a href="list.html" target="_blank">Max跑鞋</a></dt>
+						<dt><a href="list.html" target="_blank">Flyknit/飞线跑鞋</a></dt>
+						<dt><a href="list.html" target="_blank">其他</a></dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">阿迪女鞋</a>
+						</dl>
+						<dt><a href="list.html" target="_blank">三叶草</a></dt>
+						<dt><a href="list.html" target="_blank"> Stan smith/史密斯 </a></dt>
+						<dt><a href="list.html" target="_blank"> Superstar/贝壳头 </a></dt>
+						<dt><a href="list.html" target="_blank"> NMD </a></dt>
+						<dt><a href="list.html" target="_blank"> Yeezy/椰子 </a></dt>
+						<dt><a href="list.html" target="_blank"> Boost </a></dt>
+						<dt><a href="list.html" target="_blank"> Tubular/小椰子 </a></dt>
+						<dt><a href="list.html" target="_blank">篮球鞋 </a></dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">NEW Balance</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">女鞋其他</a>
+						</dl>
+						<dl>
+							<a href="list.html" target="_blank">彪马/PUMA</a>
+						</dl>
+					</li>
+				</ul>
+				<div class="shoesimg">
+					<a href="detail.html" target="_blank"><img src="img/1467869188308181948.jpg"></a>
+				</div>
+				<div class="blank1"></div>
+			</div>
+		</div>
+		<div class="manshoes for8" style="display: none;">
+			<div class="item qtbzd">
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">服饰</a>
+						</dl>
+						<dt><a href="list.html" target="_blank" class="spirit">短袖</a></dt>
+						<dt><a href="list.html" target="_blank">短裤</a></dt>
+						<dt><a href="list.html" target="_blank">长裤 </a></dt>
+						<dt><a href="list.html" target="_blank">长袖</a></dt>
+						<dt><a href="list.html" target="_blank">篮球服/背心</a></dt>
+						<dt><a href="list.html" target="_blank">外套</a></dt>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">配件</a>
+						</dl>
+						<dt><a href="list.html" target="_blank" class="spirit">背包</a></dt>
+						<dt><a href="list.html" target="_blank">袜子</a></dt>
+						<dt><a href="list.html" target="_blank">其他 </a></dt>
+					</li>
+					<li>
+						<dl>
+							<a href="list.html" target="_blank">拖鞋</a>
+						</dl>
+					</li>
+				</ul>
+				<div class="shoesimg01">
+					<a href="list.html" target="_blank"><img src="img/1467874900910050136.jpg"></a>
+				</div>
+				<div class="blank1"></div>
+			</div>
+		</div>
+		<div style="width: 100%; min-width: 1200px; height: 480px;">
+			<div class="ck-slide">
+				<ul class="ck-slide-wrapper">
+					<li>
+						<a href="list.html"><img src="img/20171215xrrgcr.jpg" style="width:100%; min-width: 1350px; height: 480px;"></a>
+					</li>
+					<li style="display:none">
+						<a href="list.html"><img src="img/20171113xbjjwv.jpg" style="width:100%; min-width: 1350px; height: 480px;"></a>
+					</li>
+					<li style="display:none">
+						<a href="list.html"><img src="img/20171117rqwacm.jpg" alt="" style="width:100%; min-width: 1350px; height: 480px;"></a>
+					</li>
+					<li style="display:none">
+						<a href="list.html"><img src="img/20170926oahlpl.jpg" alt="" style="width:100%; min-width: 1350px; height: 480px;"></a>
+					</li>
+					<li style="display:none">
+						<a href="list.html"><img src="img/20170628hhvizf.jpg" alt="" style="width:100%; min-width: 1350px; height: 480px;"></a>
+					</li>
+				</ul>
+				<a href="javascript:;" class="ctrl-slide ck-prev">上一张</a>
+				<a href="javascript:;" class="ctrl-slide ck-next">下一张</a>
+				<div class="ck-slidebox">
+					<div class="slideWrap">
+						<ul class="dot-wrap">
+							<li class="current"><em>1</em></li>
+							<li><em>2</em></li>
+							<li><em>3</em></li>
+							<li><em>4</em></li>
+							<li><em>5</em></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			$('.ck-slide').ckSlide({
+				autoPlay: true
+					/*dir:"x"*/
+			});
+		</script>
+		<div class="indexicon">
+			<div class="indexfirst">
+				<div class="indexfit">
+					<a href="javascript:;" target="_blank">
+						<img src="img/1467866170679806195.jpg" />
+					</a>
+				</div>
+				<div class="indexfit">
+					<a href="javascript:;" target="_blank">
+						<img src="img/1467866252006069595.jpg" />
+					</a>
+				</div>
+				<div class="indexfit">
+					<a href="javascript:;" target="_blank">
+						<img src="img/1499714004893456784.jpg" />
+					</a>
+				</div>
+				<div class="indexfit">
+					<a href="javascript:;" target="_blank">
+						<img src="img/1467866347999813712.jpg" />
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="indexgenuine">
+			<div class="genuine">当季尖货</div>
+		</div>
+		<div class="indexseason">
+			<div class="season1">
+				<a href="detail.html" target="_blank">
+					<div class="seasons1">
+						<div class="season">
+							<div class="section01">新品乔丹正代</div>
+							<div class="section02">评论：13</div>
+						</div>
+					</div>
+					<img src="img/截图 2017-12-17 17.22.59.png" />
+				</a>
+			</div>
+			<div class="season1 pl21">
+				<a href="detail.html" target="_blank">
+					<div class="seasons1">
+						<div class="seasons">
+							<div class="season">
+								<div class="section01">AIR JORDAN 12</div>
+								<div class="section02">评论：12</div>
+							</div>
+						</div>
+					</div>
+					<img src="img/截图 2017-12-13 10.37.00.png" />
+				</a>
+			</div>
+			<div class="season1 pl21">
+				<a href="detail.html" target="_blank">
+					<div class="seasons1">
+						<div class="seasons">
+							<div class="season">
+								<div class="section01">Adidas Yeezy Boost</div>
+								<div class="section02">评论：14</div>
+							</div>
+						</div>
+					</div>
+					<img src="img/截图 2017-12-17 17.21.46.png" />
+				</a>
+			</div>
+		</div>
+		<div class="indexgenuine">
+			<div class="genuine">男生/BOYS</div>
+		</div>
+		<div class="seasonSex">
+			<div class="sex fl">
+				<div class="sexNMD">
+					<a href="list.html" target="_blank">
+						<img src="img/1505957949686003965.jpg" />
+					</a>
+				</div>
+				<div class="rests">
+					<div class="rests0">
+						<div class="restsfor">
+							<a href="list.html" class="restsfor1 fl" target="_blank">NMD系列</a>
+						</div>
+						<div class="restsfor">
+							<a href="list.html" class="restsfor1 fl" target="_blank">经典小白鞋</a>
+						</div>
+						<div class="restsfor">
+							<a href="list.html" class="restsfor2 fl" target="_blank">科比11代</a>
+						</div>
+						<div class="restsfor">
+							<a href="list.html" target="_blank">阿迪BOOST系列</a>
+						</div>
+					</div>
+					<div class="rests1">
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">夏日潮流T恤</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">詹姆斯13代</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">耐克欧文</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">杜兰特9代</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">喷/泡系列</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">Super Fly 5</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="sex1 fl">
+				<a href="list.html" target="_blank">
+					<img src="img/1505958169228870867.jpg" />
+				</a>
+				<a href="list.html" target="_blank" class="sexOne">
+					<img src="img/1505958179267064390.jpg" />
+				</a>
+			</div>
+			<div class="sex2 fl">
+				<a href="detail.html" target="_blank">
+					<img src="img/1505958331847093279.jpg" />
+				</a>
+				<a href="detail.html" target="_blank" class="sexTwo">
+					<img src="img/1505958320996762350.jpg" />
+				</a>
+			</div>
+			<div class="sex1 fl">
+				<a href="list.html" target="_blank">
+					<img src="img/1505958395072658175.jpg" />
+				</a>
+				<a href="detail.html" target="_blank" class="sexOne">
+					<img src="img/1505958438082813125.jpg" />
+				</a>
+			</div>
+		</div>
+		<div class="indexgenuine">
+			<div class="genuine">女生/GIRLS</div>
+		</div>
+		<div class="seasonSex">
+			<div class="sex fl">
+				<div class="sexNMD">
+					<a href="list.html" target="_blank">
+						<img src="img/1505958481716443539.jpg" />
+					</a>
+				</div>
+				<div class="rests">
+					<div class="rests0">
+						<div class="restsfor">
+							<a href="list.html" class="restsfor1 fl" target="_blank">三叶草女鞋</a>
+						</div>
+						<div class="restsfor">
+							<a href="list.html" class="restsfor1 fl" target="_blank">潮流童鞋KIDS</a>
+						</div>
+						<div class="restsfor">
+							<a href="list.html" class="restsfor2 fl" target="_blank">科比11代</a>
+						</div>
+						<div class="restsfor">
+							<a href="list.html" class="restsfor1 fl" target="_blank">阿迪STAN SMITH</a>
+						</div>
+					</div>
+					<div class="rests1">
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">阿迪Super</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">耐克休闲女鞋</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">耐克Roshe跑</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">耐克潮流女子</div>
+						</a>
+						<a href="list.html" target="_blank">
+							<div class="rests1for fl">Newbalance</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="sex1 fl">
+				<a href="detail.html" target="_blank">
+					<img src="img/1505958546444610459.jpg" />
+				</a>
+				<a href="detail.html" target="_blank" class="sexOne">
+					<img src="img/1505958536425097882.jpg" />
+				</a>
+			</div>
+			<div class="sex2 fl">
+				<a href="list.html" target="_blank">
+					<img src="img/1506455171997110850.jpg" />
+				</a>
+				<a href="list.html" target="_blank" class="sexTwo">
+					<img src="img/1506455184655212305.jpg" />
+				</a>
+			</div>
+			<div class="sex1 fl">
+				<a href="detail.html" target="_blank">
+					<img src="img/1505958695189782844.jpg" />
+				</a>
+				<a href="detail.html" target="_blank" class="sexOne">
+					<img src="img/1505958719264235822.jpg" />
+				</a>
+			</div>
+		</div>
+		<div class="indexList">
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35402_thumb_P_1541334815.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 1 x OFF-WHITE AJ1 OW 元年9孔 限量联名 AA3834-101
+					</div>
+					<div class="listfor3">
+						<span>￥</span>9899
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35363_thumb_P_1603346664.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 11 AJ11乔11大红 公牛 高帮 378037-623/378038-623
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1049
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35360_thumb_P_1597720760.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 11 AJ11 UNC午夜海军蓝白蓝 男女篮球鞋 378037-123/378038-123
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1099
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35417_thumb_P_1566573309.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 1 Retro High AJ1麂皮小麦色生胶底高帮男款篮球鞋 555088-710
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1299
+					</div>
+				</div>
+			</div>
+			<div class="list0">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35424_thumb_P_1527627283.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Nike男鞋Air Foamposite One军绿全息喷运动篮球鞋314996-301
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1399
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35418_thumb_P_1571042185.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Adidas Yeezy Boost 350 V2 GREY 椰子 灰斑马 AH2203
+					</div>
+					<div class="listfor3">
+						<span>￥</span>3099
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35419_thumb_P_1541083553.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Nike LeBron 15詹姆斯15 LBJ15 酒红篮球鞋 897648-201/897649-201
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1349
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35379_thumb_P_1563055472.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Adidas Yeezy 350 V2 SPLY Semi Frozen Yellow B37572
+					</div>
+					<div class="listfor3">
+						<span>￥</span>6199
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35421_thumb_P_1610880433.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 12 Dark Grey AJ12 酷灰灰麂皮 130690-005
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1399
+					</div>
+				</div>
+			</div>
+			<div class="list0">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35422_thumb_P_1566146707.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Nike Dunk SB Low TRD QS Pigeon鸽子 883232-008
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1199
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35423_thumb_P_1514803488.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan Heiress AJ11黑金丝绒女款篮球鞋852625-030
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1299
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/33830_thumb_G_1570553033.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						耐克/Nike Air More Uptempo Hoop Pack 大Air黑红女款 415082-600
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1399
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/34402_thumb_P_1558489832.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Nike Air More Uptempo 大air皮蓬黑白灰三色拼接 415082-005/921948-002
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1199
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35360_thumb_P_1597720760.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 11 AJ11 UNC午夜海军蓝白蓝 男女篮球鞋 378037-123/378038-123
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1099
+					</div>
+				</div>
+			</div>
+			<div class="list0">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35363_thumb_P_1603346664.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 11 AJ11乔11大红 公牛 高帮 378037-623/378038-623
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1049
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/30432_thumb_P_1455599453.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						耐克/NIKE Air Force 1 High 07 LV8 AF1 小麦棕色 654440-200/882096-200
+					</div>
+					<div class="listfor3">
+						<span>￥</span>899
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35137_thumb_P_1562119609.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Air Jordan 12 BORDEAUX AJ12乔12波尔多酒红男女篮球鞋 153265-617 130690-617
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1399
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/35375_thumb_P_1510729648.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						ADIDAS三叶草女鞋2017秋季新款superstar贝壳头休闲板鞋BY9177
+					</div>
+					<div class="listfor3">
+						<span>￥</span>599
+					</div>
+				</div>
+			</div>
+			<div class="list0 list1">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/34889_thumb_G_1560527911.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Nike Air Uptempo GS 白蓝 大AIR尼克斯篮球鞋 415082-103
+					</div>
+					<div class="listfor3">
+						<span>￥</span>1049
+					</div>
+				</div>
+			</div>
+			<div class="list0">
+				<div class="listfor">
+					<div class="listfor1">
+						<a href="detail.html" target="_blank">
+							<img src="img/34361_thumb_P_1503143437.jpg" />
+						</a>
+					</div>
+					<div class="listfor2">
+						Adidas 阿迪达斯 三叶草 休闲透气 运动女鞋 BY9686
+					</div>
+					<div class="listfor3">
+						<span>￥</span>599
+					</div>
+				</div>
+			</div>
+			<div class="indexList none" style="display: block;">
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/35137_thumb_P_1562119609.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							Air Jordan 12 BORDEAUX AJ12乔12波尔多酒红男女篮球鞋 153265-617 130690-617
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1399
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/34080_thumb_P_1559414083.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							Air Jordan 5 RETRO AJ5公牛大红麂皮篮球鞋 136027-602/440888-602
+						</div>
+						<div class="listfor3">
+							<span>￥</span>999
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/33775_thumb_P_1583280566.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							乔丹/Air Jordan 11 Low AJ11 乔11低帮 伯爵 大魔王情侣款 528895-010/528896-010
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1349
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/35362_thumb_P_1556353192.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							Air Jordan XXXII PF AJ32 乔32 黑红 首发 高帮篮球鞋AA1253-001 AH3348-001
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1399
+						</div>
+					</div>
+				</div>
+				<div class="list0 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/33974_thumb_P_1543091331.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							运动磁场/乔丹/Air Jordan 13 Playoffs AJ13 GS黑红 季后赛全明星 414574-004
+						</div>
+						<div class="listfor3">
+							<span>￥</span>899
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/33898_thumb_P_1536882011.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							耐克/Nike Air More Uptempo 皮蓬大AIR 黑白熊猫 414962-105
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1699
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/35352_thumb_P_1529199523.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							Under Armour Curry4 库里4首发炫彩中国行1298306-016
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1799
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/35372_thumb_P_1579171461.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							Nike Lebron 15 Ghost LBJ詹姆斯15 香槟金 922811-200/897648-200
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1199
+						</div>
+					</div>
+				</div>
+				<div class="list0 list1 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/35374_thumb_P_1546027595.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							ADIDAS三叶草男鞋TUBULAR INVADER高帮休闲板鞋BY3625
+						</div>
+						<div class="listfor3">
+							<span>￥</span>649
+						</div>
+					</div>
+				</div>
+				<div class="list0 listsh">
+					<div class="listfor">
+						<div class="listfor1">
+							<a href="detail.html" target="_blank">
+								<img src="img/35410_thumb_P_1555949182.jpg" />
+							</a>
+						</div>
+						<div class="listfor2">
+							Nike SF-AF1 High 高帮迷彩拉链绑带休闲鞋AA1130-100
+						</div>
+						<div class="listfor3">
+							<span>￥</span>1399
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="blank"></div>
+			<div class="viewmore">
+				<a href="javascript:;">点击查看更多▼</a>
+			</div>
+			<div class="blank"></div>
+		</div>
+		<div class="indexTOP">TOP/人气单品</div>
+		<div class="popular">
+			<div class="popular0">
+				<div class="popular1">
+					<a href="detail.html" target="_blank">
+						<img src="img/33775_thumb_P_1583280566.jpg" />
+					</a>
+				</div>
+				<div class="popular2">
+					<div class="popular2hot">HOT!</div>
+				</div>
+				<div class="popular3">
+					乔丹/Air Jordan 11 Low AJ11 乔11低帮 伯爵 大魔王情侣款 528895-010/528896-010
+				</div>
+				<div class="popular4">
+					<div class="popular41">￥1349</div>
+					<div class="popular42">已售:166</div>
+				</div>
+				<div class="popular5">
+					<div class="popular5for">人气指数:</div>
+				</div>
+			</div>
+			<div class="popular0">
+				<div class="popular1">
+					<a href="detail.html" target="_blank">
+						<img src="img/33931_thumb_P_1504903059.jpg" />
+					</a>
+				</div>
+				<div class="popular2">
+					<div class="popular2new">NEW!</div>
+				</div>
+				<div class="popular3">
+					Air Jordan 13 Low Pure Money AJ13白银 低帮 310810-100
+				</div>
+				<div class="popular4">
+					<div class="popular41">￥1419</div>
+					<div class="popular42">已售:70</div>
+				</div>
+				<div class="popular5">
+					<div class="popular5for">人气指数:</div>
+				</div>
+			</div>
+			<div class="popular0">
+				<div class="popular1">
+					<a href="detail.html" target="_blank">
+						<img src="img/28228_thumb_P_1482468325.jpg" />
+					</a>
+				</div>
+				<div class="popular2">
+					<div class="popular2hot">HOT!</div>
+				</div>
+				<div class="popular3">
+					阿迪达斯/adidas SUPERSTAR 三叶草金标 男款经典黑白贝壳头C77124/C77154
+				</div>
+				<div class="popular4">
+					<div class="popular41">￥599</div>
+					<div class="popular42">已售:317</div>
+				</div>
+				<div class="popular5">
+					<div class="popular5for1">人气指数:</div>
+				</div>
+			</div>
+			<div class="popular0">
+				<div class="popular1">
+					<a href="detail.html" target="_blank">
+						<img src="img/33711_thumb_P_1553436577.jpg" />
+					</a>
+				</div>
+				<div class="popular2">
+					<div class="popular2hot">HOT!</div>
+				</div>
+				<div class="popular3">
+					Air Jordan 6 Alternate91 AJ6 OG 白红 乔6 兔八哥元年384664-113 384665-113
+				</div>
+				<div class="popular4">
+					<div class="popular41">￥1199</div>
+					<div class="popular42">已售:153</div>
+				</div>
+				<div class="popular5">
+					<div class="popular5for">人气指数:</div>
+				</div>
+			</div>
+			<div class="popular0">
+				<div class="popular1">
+					<a href="detail.html" target="_blank">
+						<img src="img/34109_thumb_P_1571407388.jpg" />
+					</a>
+				</div>
+				<div class="popular2">
+					<div class="popular2hot">HOT!</div>
+				</div>
+				<div class="popular3">
+					阿迪椰子/Adidas Yeezy Boost 350 V2 SPLY Zebra 斑马 CP9654
+				</div>
+				<div class="popular4">
+					<div class="popular41">￥3999</div>
+					<div class="popular42">已售:31</div>
+				</div>
+				<div class="popular5">
+					<div class="popular5for">人气指数:</div>
+				</div>
+			</div>
+			<div class="popular0 pr0">
+				<div class="popular1">
+					<a href="detail.html" target="_blank">
+						<img src="img/33837_P_1565760319.jpg" />
+					</a>
+				</div>
+				<div class="popular2">
+					<div class="popular2hot">HOT!</div>
+				</div>
+				<div class="popular3">
+					阿迪达斯/Adidas Yeezy 350 V2 Triple White 侃爷椰子全白跑鞋 CP9366
+				</div>
+				<div class="popular4">
+					<div class="popular41">￥4149</div>
+					<div class="popular42">已售:38</div>
+				</div>
+				<div class="popular5">
+					<div class="popular5for1">人气指数:</div>
+				</div>
+			</div>
+		</div>
+		<div class="indexgenuine">
+			<div class="genuine">品牌/BRAND</div>
+		</div>
+		<div class="indexbrand">
+			<div class="indexb1">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb1">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb1 pr0">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2 pr0">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2">
+				<a href="list.html" target="_blank"></a>
+			</div>
+			<div class="indexb2 pr0">
+				<a href="javascript:;" target="_blank"></a>
+			</div>
+		</div>
+		<div class="newest">
+			<div class="newest1">
+				<div class="newestfor">最新鞋款资讯</div>
+			</div>
+			<div class="newestbr"></div>
+		</div>
+		<div class="indexbtm">
+			<div class="btmfor0">
+				<div class="btmfor1">
+					<div class="btmfor2">
+						<a href="javascript:;" target="_blank">
+							<img src="img/20171121115052461.jpg" />
+						</a>
+					</div>
+					<div class="btmfor3">Virgil Abloh x Nike</div>
+					<div class="btmfor4">2017-11-21 发表</div>
+				</div>
+			</div>
+			<div class="btmfor0">
+				<div class="btmfor1">
+					<div class="btmfor2">
+						<a href="javascript:;" target="_blank">
+							<img src="img/20171121113019987.jpg" />
+						</a>
+					</div>
+					<div class="btmfor3">预览 adidas Originals</div>
+					<div class="btmfor4">2017-11-21 发表</div>
+				</div>
+			</div>
+			<div class="btmfor0">
+				<div class="btmfor1">
+					<div class="btmfor2">
+						<a href="javascript:;" target="_blank">
+							<img src="img/20171120080001919.jpg" />
+						</a>
+					</div>
+					<div class="btmfor3">这波黑白绿的配色好清新，Air Jord</div>
+					<div class="btmfor4">2017-11-20 发表</div>
+				</div>
+			</div>
+			<div class="btmfor0">
+				<div class="btmfor1">
+					<div class="btmfor2">
+						<a href="javascript:;" target="_blank">
+							<img src="img/20171120052039363.jpg" />
+						</a>
+					</div>
+					<div class="btmfor3">Nike 全新跑鞋 Air VaporM</div>
+					<div class="btmfor4">2017-11-20 发表</div>
+				</div>
+			</div>
+			<div class="btmfor0">
+				<div class="btmfor1">
+					<div class="btmfor2">
+						<a href="javascript:;" target="_blank">
+							<img src="img/20171120021359101.jpg" />
+						</a>
+					</div>
+					<div class="btmfor3">采用针织技术，Adidas AdiZer</div>
+					<div class="btmfor4">2017-11-20 发表</div>
+				</div>
+			</div>
+			<div class="btmfor0 pr0">
+				<div class="btmfor1">
+					<div class="btmfor2">
+						<a href="javascript:;" target="_blank">
+							<img src="img/20171120110225223.jpg" />
+						</a>
+					</div>
+					<div class="btmfor3">adidas Originals EQT</div>
+					<div class="btmfor4">2017-11-20 发表</div>
+				</div>
+			</div>
+		</div>
+		<div class="Afooter">
+			<div class="Ablock">
+				<div class="Abottom1 fl">
+					<div class="Abot1">
+						<div class="Abot11">
+							<div class="Abot111">磁场互动平台</div>
+						</div>
+						<div class="Abot1br"></div>
+					</div>
+					<div class="Abot2">
+						<div class="Abot22">
+							<div class="Abot22box">磁场官方微信</div>
+						</div>
+						<div class="Abot22">
+							<div class="Abot22box">磁场官方微博</div>
+						</div>
+						<div class="Abot22">
+							<div class="Abot22box">磁场客服微信</div>
+						</div>
+					</div>
+				</div>
+				<div class="Abottom2 fl">
+					<div class="Abot3">
+						<div class="Abot33">
+							<div class="talent">
+								<div class="talent1">招贤纳士</div>
+							</div>
+							<div class="talent2"></div>
+						</div>
+						<div class="Abot33">
+							<div class="talent">
+								<div class="talent1">品牌合作</div>
+							</div>
+							<div class="talent2"></div>
+						</div>
+						<div class="Abot33">
+							<div class="talent">
+								<div class="talent1">微信代购</div>
+							</div>
+							<div class="talent2"></div>
+						</div>
+						<div class="Abot333">
+							<div class="Tbox1">如果你也热爱sneaker文化，对潮流有自己的独特眼光，磁场欢迎你的加入。我们虚席以待
+								<a href="javascript:;">了解详情>></a>
+							</div>
+						</div>
+						<div class="Abot333">
+							<div class="Tbox1">诚邀各类自主创意设计潮牌加入，我们可以给你提供展示创意的免费广告平台，期待与你的合作。
+								<a href="javascript:;">了解详情>></a>
+							</div>
+						</div>
+						<div class="Abot333">
+							<div class="Tbox1">微信代购已经成为一种购物的时尚趋势。我们为各位微信商家提供正品货源。
+								<a href="javascript:;">了解详情>></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Abottom3 fr">
+					<div class="Abot4">
+						<div class="Abot44">
+							<div class="AbotBox">客服热线</div>
+						</div>
+					</div>
+					<div class="Abot5">
+						<div class="Abot55 fl">
+							<div class="AbotPhone">客服电话 400-600-1659</div>
+							<div class="AbotRed">
+								<a href="javascript:;" target="_blank"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="base">
+			<div class="Ablock">
+				<div class="white fl">
+					<div class="base1 fl"></div>
+					<div class="baseBox">100%正品保证</div>
+				</div>
+				<div class="white fl">
+					<div class="base2 fl"></div>
+					<div class="baseBox">支持7天无理由退换</div>
+				</div>
+				<div class="white fl">
+					<div class="base3 fl"></div>
+					<div class="baseBox">支持货到付款</div>
+				</div>
+				<div class="white fl">
+					<div class="base4 fl"></div>
+					<div class="baseBox">贴心服务</div>
+				</div>
+			</div>
+			<div class="Ablock">
+				<div class="As fl">
+					<ul>
+						<li>
+							<p class="Asp">
+								<a href="javascript:;">新手上路</a>
+							</p>
+							<p>
+								<a href="javascript:;">关于价格变动问题</a>
+							</p>
+							<p>
+								<a href="javascript:;">防骗提醒</a>
+							</p>
+							<p>
+								<a href="javascript:;">购物流程</a>
+							</p>
+							<p>
+								<a href="javascript:;">退款须知</a>
+							</p>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<p class="Asp">
+								<a href="javascript:;">服务保证</a>
+							</p>
+							<p>
+								<a href="javascript:;">商品签收和拒收</a>
+							</p>
+							<p>
+								<a href="javascript:;">如何办理退款</a>
+							</p>
+							<p>
+								<a href="javascript:;">正品保证</a>
+							</p>
+							<p>
+								<a href="javascript:;">支付限额</a>
+							</p>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<p class="Asp">
+								<a href="javascript:;">会员中心</a>
+							</p>
+							<p>
+								<a href="javascript:;">磁场VIP制度</a>
+							</p>
+							<p>
+								<a href="javascript:;">订单查询</a>
+							</p>
+							<p>
+								<a href="javascript:;">用户注册</a>
+							</p>
+							<p>
+								<a href="javascript:;">尺码对照表</a>
+							</p>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<p class="Asp">
+								<a href="javascript:;">配送与支付</a>
+							</p>
+							<p>
+								<a href="javascript:;">在线支付</a>
+							</p>
+							<p>
+								<a href="javascript:;">配送说明</a>
+							</p>
+							<p>
+								<a href="javascript:;">银行汇款</a>
+							</p>
+							<p>
+								<a href="javascript:;">微信转账</a>
+							</p>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<p class="Asp">
+								<a href="javascript:;">联系我们</a>
+							</p>
+							<p>
+								<a href="javascript:;">磁场实体</a>
+							</p>
+							<p>
+								<a href="javascript:;">客服热线</a>
+							</p>
+							<p>
+								<a href="javascript:;">关于我们</a>
+							</p>
+							<p>
+								<a href="javascript:;">客服服务</a>
+							</p>
+						</li>
+					</ul>
+				</div>
+				<div class="AsNew fr">
+					<div class="newTop">
+						<div class="newTop1">
+							<div class="newSc">商城新闻</div>
+						</div>
+						<div class="newTopBr"></div>
+					</div>
+					<div class="newMid fl">
+						<ul class="newList">
+							<li>
+								<a href="javascript:;">adidas EQT Cushion ADV 全新双色重塑经典</a>
+							</li>
+							<li>
+								<a href="javascript:;">Kaws X Air Jordan 4“Black”明日正式登场!</a>
+							</li>
+							<li>
+								<a href="javascript:;">黑曜石来袭！Nike Air More</a>
+							</li>
+							<li>
+								<a href="javascript:;">老鞋新赏——Air Jordan 9“For The Love</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="blank"></div>
+			<div class="Ablock">
+				<div class="logo">
+					<a href="javascript:;" target="_blank"></a>
+					<a href="javascript:;" target="_blank"></a>
+					<a href="javascript:;" target="_blank"></a>
+					<a href="javascript:;" target="_blank"></a>
+				</div>
+				<div class="kong and"></div>
+			</div>
+			<div class="blank"></div>
+			<div class="and ftBox">北京亿涛世纪信息技术有限公司 地址：北京市地安门外大街103号 电话：4006001659</div>
+			<div class="and ftBox">© 2005-2017 运动磁场网上购物商城 版权所有，并保留所有权利。
+				<a href="javascript:;" target="_blank">京ICP备14061133号</a>
+				<a href="javascript:;" target="_blank">
+					<img src="img/recordcode.png" />京公网安备11010102002287号
+				</a>
+			</div>
+			<div class="footr">
+				<div class="footrall">
+					<div class="footr1">
+						<div class="footr2">
+							<ul class="footrul">
+								<li class="footrli1">
+									<a href="javascript:;" target="_blank">
+										<img src="img/1499714030658632207.jpg" />
+									</a>
+								</li>
+								<li style="height: 38px;" class="for9">
+									<a href="javascript:;" target="_blank" class="footrlifor1">
+										<span class="footract"></span>
+									</a>
+									<div class="login for9" style="display: none;">
+										<form action="" method="post" name="formlogin">
+											<div class="loginbox">
+												<div class="loginbox0">用户名:</div>
+												<div class="loginbox01">
+													<input type="text" class="loginbox05" name="text" />
+												</div>
+												<div class="loginbox02">
+													<div class="loginbox03">登录密码:</div>
+													<a href="javascript:;">忘记密码？</a>
+												</div>
+												<div class="loginbox01">
+													<input type="password" class="loginbox05" name="password" />
+												</div>
+												<div class="loginbox06">
+													<input type="submit" value="登录" class="loginbox07" name="submit" style="font-family: 'microsoft yahei';" />
+												</div>
+												<div class="loginbox02">
+													<a href="javascript:;">免费注册</a>
+												</div>
+											</div>
+										</form>
+										<span class="loginbf"></span>
+									</div>
+								</li>
+								<li class="footrli2">
+									<a href="shopping.html" target="_blank" class="footrlifor2">
+										<span class="lifor"></span>
+										<div class="shopcart">购物车</div>
+										<font class="shopfont">0</font>
+									</a>
+								</li>
+								<li class="footrli3 for01">
+									<a href="javascript:;" target="_blank">
+										<span class="kfly"></span>
+									</a>
+									<div class="footrask for02" style="left: -121px;">客服中心
+										<span class="lifor1"></span></div>
+								</li>
+								<li class="footrli3 for03">
+									<a href="javascript:;" target="_blank">
+										<span class="wt"></span>
+									</a>
+									<div class="footrask for04" style="left: -121px;">常见问题
+										<span class="lifor1"></span></div>
+								</li>
+								<li class="footrli3 for05">
+									<a href="javascript:;" target="_blank">
+										<span class="qh"></span>
+									</a>
+									<div class="footrask for06" style="left: -121px;">缺货登记
+										<span class="lifor1"></span></div>
+								</li>
+							</ul>
+							<ul class="footrul1">
+								<li style="height: 36px;" class="footrli3 for07">
+									<a href="javascript:;">
+										<span class="yhfk"></span>
+									</a>
+									<div class="footrask for08" style="left: -121px;">用户反馈
+										<span class="lifor1"></span></div>
+								</li>
+								<li style="height: 36px;" class="for09">
+									<a href="javascript:;">
+										<span class="ewm"></span>
+									</a>
+									<div class="footrask1 for10" style="display: none;">
+										<span class="lifor2"></span>
+									</div>
+								</li>
+								<li style="height: 36px;">
+									<a href="javascript:;" class="returnTop" style="display: none;">
+										<span class="topend"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>
